@@ -1,0 +1,17 @@
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\bin\Debug\net6.0-windows\Projekt3.exe
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\bin\Debug\net6.0-windows\Projekt3.deps.json
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\bin\Debug\net6.0-windows\Projekt3.runtimeconfig.json
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\bin\Debug\net6.0-windows\Projekt3.dll
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\bin\Debug\net6.0-windows\Projekt3.pdb
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\obj\Debug\net6.0-windows\Projekt3.csproj.AssemblyReference.cache
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\obj\Debug\net6.0-windows\Projekt3.mkCalculator.resources
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\obj\Debug\net6.0-windows\Projekt3.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\obj\Debug\net6.0-windows\Projekt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\obj\Debug\net6.0-windows\Projekt3.AssemblyInfoInputs.cache
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\obj\Debug\net6.0-windows\Projekt3.AssemblyInfo.cs
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\obj\Debug\net6.0-windows\Projekt3.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\obj\Debug\net6.0-windows\Projekt3.dll
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\obj\Debug\net6.0-windows\refint\Projekt3.dll
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\obj\Debug\net6.0-windows\Projekt3.pdb
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\obj\Debug\net6.0-windows\Projekt3.genruntimeconfig.cache
+C:\Users\Marcin\source\repos\Projekt3\Projekt3\obj\Debug\net6.0-windows\ref\Projekt3.dll
